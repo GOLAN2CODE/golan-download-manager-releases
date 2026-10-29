@@ -60,4 +60,4 @@ Fast, resumable downloads for Windows — with browser integration.
 
 ---
 
-<sub>This repository hosts the installer and release notes. The source code is private. © Khalid</sub>
+<sub>هذا المستودع للتنزيل وملاحظات الإصدارات. الكود المصدري مفتوح بموجب GPL-3.0 في <a href="https://github.com/dark9guna/golan-download-manager">golan-download-manager</a> · This repository hosts the installer and release notes; the source code is open (GPL-3.0) at <a href="https://github.com/dark9guna/golan-download-manager">golan-download-manager</a>. © Khalid</sub>
